@@ -1,0 +1,8 @@
+C:\Projects\Calculos\Calculos\bin\Debug\Calculos.exe
+C:\Projects\Calculos\Calculos\bin\Debug\Calculos.pdb
+C:\Projects\Calculos\Calculos\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Calculos\Calculos\obj\Debug\Calculos.Form1.resources
+C:\Projects\Calculos\Calculos\obj\Debug\Calculos.Properties.Resources.resources
+C:\Projects\Calculos\Calculos\obj\Debug\Calculos.csproj.GenerateResource.Cache
+C:\Projects\Calculos\Calculos\obj\Debug\Calculos.exe
+C:\Projects\Calculos\Calculos\obj\Debug\Calculos.pdb

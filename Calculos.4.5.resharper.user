@@ -1,0 +1,172 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Program.cs" caret="485" fromTop="18" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:SpeedByRPM.cs" caret="355" fromTop="15" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/d:Properties/f:AssemblyInfo.cs" caret="374" fromTop="9" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:FormValidated.cs" caret="538" fromTop="13" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="2171" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="11262" fromTop="13" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="976" fromTop="23" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="10547" fromTop="17" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="10872" fromTop="22" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="11239" fromTop="26" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="11262" fromTop="22" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="6389" fromTop="22" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/d:Properties/f:AssemblyInfo.cs" caret="374" fromTop="9" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/d:Properties/f:AssemblyInfo.cs" caret="274777" fromTop="9" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="8664" fromTop="21" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="8537" fromTop="15" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="8411" fromTop="9" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="8284" fromTop="3" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="8151" fromTop="1" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="8023" fromTop="1" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="7896" fromTop="1" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="7765" fromTop="1" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="7621" fromTop="1" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="7493" fromTop="1" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="7364" fromTop="1" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="7229" fromTop="1" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="7099" fromTop="1" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="6970" fromTop="1" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="6837" fromTop="1" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:FormValidated.cs" caret="538" fromTop="13" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="4063" fromTop="21" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="2299" fromTop="2" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="3938" fromTop="26" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="1797" fromTop="8" />
+      <File id="9D93ABB2-6D33-48D9-B539-5E0A7DDCB491/f:Form1.cs" caret="2171" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="1" />
+      <Item value="void" priority="2" />
+      <Item value="decimal" priority="2" />
+      <Item value="MaximizeBox" priority="0" />
+      <Item value="if" priority="6" />
+      <Item value="txtAlto" priority="4" />
+      <Item value="string" priority="6" />
+      <Item value="txtAncho" priority="2" />
+      <Item value="altoCubierta" priority="1" />
+      <Item value="Convert" priority="9" />
+      <Item value="txtRuedaTamaño" priority="2" />
+      <Item value="diametro" priority="1" />
+      <Item value="txtVelocidad" priority="3" />
+      <Item value="circunsferencia" priority="2" />
+      <Item value="Math" priority="0" />
+      <Item value="double" priority="11" />
+      <Item value="txtRuedaCircunsferencia" priority="1" />
+      <Item value="txtVueltasCajaPiñon" priority="1" />
+      <Item value="txtVueltasRuedaCorona" priority="1" />
+      <Item value="txtCorona" priority="2" />
+      <Item value="txtPiñon" priority="2" />
+      <Item value="vueltasRuedaCorona" priority="3" />
+      <Item value="relacionPiñonCorona" priority="5" />
+      <Item value="IFileReaderService" priority="1" />
+      <Item value="vueltasCajaPiñon" priority="3" />
+      <Item value="txtRPM" priority="3" />
+      <Item value="relacionCajaMotor" priority="3" />
+      <Item value="txtRelacionesCajaMotor" priority="0" />
+      <Item value="txtRelacionesPiñonCorona" priority="0" />
+      <Item value="Calculate" priority="7" />
+      <Item value="private" priority="2" />
+      <Item value="txtNewAlto" priority="3" />
+      <Item value="newAlto" priority="0" />
+      <Item value="txtNewAncho" priority="2" />
+      <Item value="newAncho" priority="0" />
+      <Item value="txtNewCircunsferencia" priority="3" />
+      <Item value="newKMH" priority="1" />
+      <Item value="txtNewCorona" priority="3" />
+      <Item value="newCorona" priority="0" />
+      <Item value="txtNewPiñon" priority="3" />
+      <Item value="newPiñon" priority="0" />
+      <Item value="txtNewRPM" priority="1" />
+      <Item value="newRuedaTamaño" priority="1" />
+      <Item value="newRPM" priority="2" />
+      <Item value="txtNewRuedaTamaño" priority="3" />
+      <Item value="txtNewVelocidad" priority="3" />
+      <Item value="int" priority="2" />
+      <Item value="newVueltasRuedaCorona" priority="0" />
+      <Item value="newRelacionPiñonCorona" priority="2" />
+      <Item value="newVueltasCajaPiñon" priority="0" />
+      <Item value="newCircunsferencia" priority="3" />
+      <Item value="CalculateNew" priority="8" />
+      <Item value="for" priority="0" />
+      <Item value="rpm" priority="3" />
+      <Item value="List" priority="0" />
+      <Item value="SpeedByRPM" priority="4" />
+      <Item value="new" priority="2" />
+      <Item value="List&lt;SpeedByRPM&gt;" priority="0" />
+      <Item value="result" priority="1" />
+      <Item value="this" priority="1" />
+      <Item value="Speed" priority="0" />
+      <Item value="RPM" priority="0" />
+      <Item value="velocidad" priority="0" />
+      <Item value="chGraph" priority="2" />
+      <Item value="speedByRpm" priority="2" />
+      <Item value="in" priority="0" />
+      <Item value="GenerateGraph" priority="0" />
+      <Item value="CalculateOriginal" priority="0" />
+      <Item value="Validation_Number" priority="0" />
+      <Item value="errorProvider" priority="0" />
+      <Item value="ErrorProvider" priority="0" />
+      <Item value="statisticData" priority="1" />
+      <Item value="SeriesChartType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="26" />
+      <Item value="Focus" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToDecimal" priority="2" />
+      <Item value="ToDouble" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="PI" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Calculos.SpeedByRPM">
+      <Item value="Speed" priority="1" />
+      <Item value="RPM" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.Chart">
+      <Item value="Series" priority="0" />
+      <Item value="ChartAreas" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.SeriesCollection">
+      <Item value="Clear" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataVisualization.Charting.Series">
+      <Item value="ChartType" priority="0" />
+      <Item value="AxisLabel" priority="0" />
+      <Item value="ChartArea" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DataVisualization.Charting.SeriesChartType">
+      <Item value="Line" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
